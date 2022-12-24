@@ -1,0 +1,21 @@
+# Jekyll main configuration file
+# See https://jekyllrb.com/docs/configuration/ to further customize this file
+# Defaults settings https://jekyllrb.com/docs/configuration/#default-configuration
+
+lsi: false
+safe: true
+source: [your repo's top level directory]
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+
+url: # https://anielaca.github.io/
+
+theme: jekyll-theme-tactile
+title: Homepage for AnielaCa
+description: "A short description of my projects"
+
