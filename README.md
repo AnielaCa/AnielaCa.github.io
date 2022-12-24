@@ -1,1 +1,1 @@
-Im a student at AGH University of Science and Technology
+I'm a student at AGH University of Science and Technology
