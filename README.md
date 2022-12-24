@@ -1,2 +1,1 @@
-# AnielaCa.github.io
-Website with the information about my projects
+Im a student at AGH University of Science and Technology
