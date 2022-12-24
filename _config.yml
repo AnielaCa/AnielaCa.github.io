@@ -13,8 +13,6 @@ kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
 
-url: https://anielaca.github.io/
-
 theme: jekyll-theme-tactile
 title: Homepage for AnielaCa
 description: "A short description of my projects"
